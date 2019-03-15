@@ -2,5 +2,6 @@
 
 	<include file="src/main/script/changelog-0.0.1/changelog.xml"/>
 	<include file="src/main/script/changelog-0.0.2/changelog.xml"/>
+	<include file="src/main/script/changelog-0.0.3/changelog.xml"/>
 
 </databaseChangeLog>
